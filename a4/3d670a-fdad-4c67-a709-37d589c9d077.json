@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 20.1.1",
-    "aliquot": 81,
+    "aliquot": 82,
     "analysis_type": "unknown",
     "analyst_name": "MHeizler",
     "arar_mapping": {
@@ -23,8 +23,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": -4103970105769115303,
-            "level": null,
+            "hash_id": 828761793613873841,
+            "level": 30,
             "location": "scripts/conditionals/detrital-2_0_4.yaml",
             "ntrips": 1,
             "start_count": 25,
@@ -33,8 +33,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": -300768855206818356,
-            "level": null,
+            "hash_id": 2832407568829607844,
+            "level": 30,
             "location": "scripts/conditionals/detrital-2_0_4.yaml",
             "ntrips": 1,
             "start_count": 120,
@@ -43,8 +43,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": -2689695892324740264,
-            "level": null,
+            "hash_id": 4017035850023743152,
+            "level": 30,
             "location": "scripts/conditionals/detrital-2_0_4.yaml",
             "ntrips": 1,
             "start_count": 90,
@@ -53,8 +53,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": -5644975118484074334,
-            "level": null,
+            "hash_id": 4520457405055349370,
+            "level": 30,
             "location": "scripts/conditionals/detrital-2_0_4.yaml",
             "ntrips": 1,
             "start_count": 60,
@@ -63,8 +63,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": 8123997409978322306,
-            "level": null,
+            "hash_id": 6339276190151832922,
+            "level": 30,
             "location": "scripts/conditionals/detrital-2_0_4.yaml",
             "ntrips": 1,
             "start_count": 3,
@@ -73,8 +73,8 @@
         {
             "analysis_types": [],
             "frequency": 1,
-            "hash_id": -2184871138106122609,
-            "level": 10,
+            "hash_id": -2592185657484350526,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 1,
             "start_count": 3,
@@ -92,8 +92,8 @@
                 "blank"
             ],
             "frequency": 5,
-            "hash_id": -4333250332833203154,
-            "level": 10,
+            "hash_id": 2355817238703685779,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 3,
             "start_count": 0,
@@ -104,8 +104,8 @@
                 "cocktail"
             ],
             "frequency": 5,
-            "hash_id": 1849420377195013265,
-            "level": 10,
+            "hash_id": -7431012090623022448,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 3,
             "start_count": 20,
@@ -116,8 +116,8 @@
                 "air"
             ],
             "frequency": 5,
-            "hash_id": 9185288629063481384,
-            "level": 10,
+            "hash_id": -5945127385892957655,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 3,
             "start_count": 20,
@@ -135,8 +135,8 @@
                 "blank"
             ],
             "frequency": 10,
-            "hash_id": 9071424205767182143,
-            "level": 10,
+            "hash_id": 3948605985039924850,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 1,
             "start_count": 0,
@@ -147,8 +147,8 @@
                 "air"
             ],
             "frequency": 5,
-            "hash_id": -3668366552781905820,
-            "level": 10,
+            "hash_id": 6958334564273021437,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 1,
             "start_count": 50,
@@ -157,8 +157,8 @@
         {
             "analysis_types": [],
             "frequency": 3,
-            "hash_id": -7595606128315429578,
-            "level": 10,
+            "hash_id": -7854703220526000229,
+            "level": 30,
             "location": "setupfiles/spectrometer/default_conditionals.yaml",
             "ntrips": 3,
             "start_count": 0,
@@ -207,9 +207,9 @@
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2026-04-21T14:10:06",
+                "pub_date": "2026-04-21T14:20:07",
                 "title": "Building",
-                "value": 106.6
+                "value": 103.2
             },
             {
                 "device": "AirPressure2",
@@ -237,9 +237,9 @@
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2026-04-21T14:10:05",
+                "pub_date": "2026-04-21T14:20:07",
                 "title": "Coolant",
-                "value": 16.1
+                "value": 15.9
             },
             {
                 "device": "JanMonitor",
@@ -321,15 +321,19 @@
     "rlocation": "",
     "sample": "K25-Bid72",
     "source": {
-        "emission": 318.116,
-        "trap": 197.923
+        "emission": 318.238,
+        "trap": 198.371
     },
     "spec_sha": "8c677db069a4541adbab2958c29757b75853d094",
-    "time_zero_timestamp": "2026-04-21T14:09:32.104985",
-    "timestamp": "2026-04-21T14:11:28.344196",
-    "tripped_conditional": null,
+    "time_zero_timestamp": "2026-04-21T14:19:16.892191",
+    "timestamp": "2026-04-21T14:20:55.638854",
+    "tripped_conditional": {
+        "context": "{'age': 217.73715357730578}",
+        "hash_id": 4520457405055349370,
+        "teststr": "age>150.0"
+    },
     "unit": "",
     "username": "MHeizler",
-    "uuid": "0a5a57b3-9e8f-4af5-b36c-77da575a6969",
+    "uuid": "a43d670a-fdad-4c67-a709-37d589c9d077",
     "whiff_result": null
 }
